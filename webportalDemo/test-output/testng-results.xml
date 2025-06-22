@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-21T22:52:05 CST" name="Default suite" finished-at="2025-06-21T22:52:14 CST" duration-ms="8881">
+    <groups>
+    </groups>
+    <test started-at="2025-06-21T22:52:05 CST" name="Default test" finished-at="2025-06-21T22:52:14 CST" duration-ms="8881">
+      <class name="UI.VerifyTitleTest">
+        <test-method signature="titleTest()[pri:0, instance:UI.VerifyTitleTest@2df9b86]" started-at="2025-06-21T22:52:05 CST" name="titleTest" finished-at="2025-06-21T22:52:14 CST" duration-ms="8784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+      </class> <!-- UI.VerifyTitleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
